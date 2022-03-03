@@ -30,6 +30,8 @@ void WithMap(){
 	map<char, int> map;
 	std::map<char, int>::iterator it;
 
+	cout << "This version uses map" << endl << endl;
+
 	for (unsigned int i = 0; i < value.length(); i++)
 	{
 		char temp = value.at(i);
@@ -59,6 +61,8 @@ void WithVector() {
 
 	vector<char> list;
 	vector<int> amounts;
+
+	cout << "This version uses vector" << endl << endl;
 
 	for (unsigned int i = 0; i < value.length(); i++)
 	{
