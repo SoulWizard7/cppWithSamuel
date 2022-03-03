@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\niklas.hognabba\LinearSearch\main.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+  LinearSearch.vcxproj -> C:\Users\niklas.hognabba\c-Course\Debug\LinearSearch.exe
